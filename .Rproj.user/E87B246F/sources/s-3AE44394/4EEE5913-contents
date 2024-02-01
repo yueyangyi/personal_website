@@ -30,7 +30,7 @@ params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
   description: Public Health in a Changing Globe.
-  footer: "&copy; [Yueyang Yi](https://www.yueyangyi.com) 2022-2023"
+  footer: "&copy; [Yueyang Yi](https://www.yueyangyi.com) 2022-2024"
   favicon: "/favicon.ico"
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
   highlightjsLang:
