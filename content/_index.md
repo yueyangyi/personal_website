@@ -4,7 +4,7 @@ title: Home
 
 [<img src="/photo3.jpg" style="max-width:25%;min-width:60px;float:right;" alt="photo" />](https://www.yueyangyi.com)
 
-Welcome to my website! I am now a research assistant at [Stanley Ho Big Data Decision Analytics Research Centre](https://www.bdda.cuhk.edu.hk/) of [Chinese University of Hong Kong](https://cuhk.edu.hk/english/index.html). Under the supervision of [Prof Thomas YT Lam](https://www.nur.cuhk.edu.hk/people/professoriate-academic-staff/professor-lam-yuen-tung-thomas/), I conduct applied research on gastroenterology, cancer screening and AI in medicine. 
+Welcome to my website! I am now a research assistant at [Stanley Ho Big Data Decision Analytics Research Centre](https://www.bdda.cuhk.edu.hk/) of [Chinese University of Hong Kong](https://cuhk.edu.hk/english/index.html). Under the supervision of [Prof Thomas YT Lam](https://www.nur.cuhk.edu.hk/people/professoriate-academic-staff/professor-lam-yuen-tung-thomas/), I conduct applied research on gastroenterology, cancer screening and AI for medicine. 
 
 My research interests focus on modelling dynamic human systems, dynamic non-human systems and their various interactions. I look forward to applying state-of-the-art statistical methods into evidence-based public health research. 
 
