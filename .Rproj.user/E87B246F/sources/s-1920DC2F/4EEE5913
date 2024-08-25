@@ -3,7 +3,7 @@
     "path": "~/GitHub/personal_website/personal_website/config.yaml",
     "project_path": "config.yaml",
     "type": "yaml",
-    "hash": "1651477583",
+    "hash": "3540792095",
     "contents": "",
     "dirty": false,
     "created": 1699949688947.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "32,68",
-        "scrollLine": "12"
+        "cursorPosition": "23,111",
+        "scrollLine": "10"
     },
     "folds": "",
-    "lastKnownWriteTime": 1717613879,
+    "lastKnownWriteTime": 1724613446,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1717613879060,
+    "last_content_update": 1724613446053,
     "read_only": false,
     "read_only_alternatives": []
 }
