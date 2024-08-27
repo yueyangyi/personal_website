@@ -21,7 +21,7 @@ menu:
       url: "/research/"
       weight: 2
     - name: "Résumé"
-      url: "http://nbviewer.org/github/yueyangyi/personal_website/blob/main/content/Yueyang_Yi_Resume_v20240826.pdf"
+      url: "http://nbviewer.org/github/yueyangyi/personal_website/blob/main/content/Yueyang_Yi_Resume_v20240826a.pdf"
       weight: 3
     - name: "五言律诗"
       url: "/wuyanlvshi/"
@@ -29,7 +29,7 @@ menu:
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
-  description: Public Health in a Changing Globe.
+  description: Well-Being in a Changing Globe.
   footer: "&copy; [Yueyang Yi](https://www.yueyangyi.com) 2022-2024"
   favicon: "/favicon.ico"
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
