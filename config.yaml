@@ -29,7 +29,7 @@ menu:
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
-  description: Well-Being in a Changing Globe.
+  description: Human Well-Being in a Changing Globe.
   footer: "&copy; [Yueyang Yi](https://www.yueyangyi.com) 2022-2024"
   favicon: "/favicon.ico"
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
