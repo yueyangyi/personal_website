@@ -21,7 +21,7 @@ menu:
       url: "/research/"
       weight: 2
     - name: "Résumé"
-      url: "http://nbviewer.org/github/yueyangyi/personal_website/blob/main/content/Yueyang_Yi_Resume_v20240826a.pdf"
+      url: "http://nbviewer.org/github/yueyangyi/personal_website/blob/main/content/CV_Yueyang_Yi_20241029.pdf"
       weight: 3
     - name: "五言律诗"
       url: "/wuyanlvshi/"
